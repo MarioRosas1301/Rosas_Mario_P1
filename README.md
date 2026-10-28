@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Portal Web "Innova ESPE 2026"
 
 ¡Bienvenido al repositorio oficial del portal web para el evento **Innova ESPE 2026**! Este sitio fue pensado y desarrollado desde cero como un espacio informativo, moderno y completamente adaptable para mostrar los proyectos tecnológicos y emprendimientos estudiantiles.
@@ -48,3 +49,7 @@ APELLIDO_NOMBRE_P1/
 │   ├── escritorio.png
 │   └── movil.png
 └── README.md
+=======
+# Rosas_Mario_P1
+Conjunta del Primer Parcial de Programacion WEB
+>>>>>>> e6b5f2b5ccc7efe9e0445365ef2785dae455a34d
